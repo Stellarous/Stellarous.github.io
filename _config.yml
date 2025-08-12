@@ -11,9 +11,6 @@ description: Programmer and researcher from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/Stellarous/Stellarous.github.io/main/images/profile.png
 
-# https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-#https://github.com/Stellarous/Stellarous.github.io/tree/main/imagesimages/github_blog_avatar.jpeg
-
 #
 # Flags below are optional
 #
@@ -24,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/Stellarous
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: ali_barmaki
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
